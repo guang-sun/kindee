@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>KindeeTrain.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>69720D5934737771D08666CB9B26219B49CD591A</string>
+				<key>dateExpires</key>
+				<string>2021/12/25</string>
+				<key>type</key>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>65BTXZ67F5.com.yyjlsxy.yyjl-enterprise</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>65BTXZ67F5</string>
+				<key>get-task-allow</key>
+				<false/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>65BTXZ67F5.com.yyjlsxy.yyjl-enterprise</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>鸳鸯商学院.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>cd30e20b-da97-473c-b43c-664f65153d4b</string>
+				<key>name</key>
+				<string>yyjl_enterDIs</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>65BTXZ67F5</string>
+				<key>name</key>
+				<string>Beijing JIDI Technology Co., Ltd. (Enterprise)</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
